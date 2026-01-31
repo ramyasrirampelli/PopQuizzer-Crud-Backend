@@ -6,20 +6,7 @@
       "role": "author"
     }
   ],
-  "users": [
-    {
-      "id": "98c5",
-      "email": "rampelli.ramyarachana@gmail.com",
-      "name": "Rampelli Ramyasri",
-      "provider": "google",
-      "uid": "AQ1WdKVnI2eneoJaiZUrhEkMtDV2"
-    },
-    {
-      "id": "0d5c",
-      "email": "ramya@gmail.com",
-      "password": "Ramya"
-    }
-  ],
+  "users": [],
   "quizzes": [
     {
       "id": "9f31",
